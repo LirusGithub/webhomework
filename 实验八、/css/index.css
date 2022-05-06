@@ -1,0 +1,17 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(163, 114, 114);
+    border: 1px solid #eee;
+    margin: 20px auto;
+}
+
+.m-btn {
+    width: 102px;
+    height: 40px;
+    background-color: blue;
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
