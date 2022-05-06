@@ -1,0 +1,282 @@
+body {
+    margin: 0;
+}
+
+span {
+    list-style: none;
+}
+
+.m-bg {
+    position: absolute;
+    width: 1063px;
+    height: 544px;
+    background: url(../img/bk.jpg);
+    opacity: 0.4;
+}
+
+.m-menu {
+    font-size: 12px;
+    padding: 15px 65px;
+    letter-spacing: 2px;
+    color: #666;
+}
+
+.m-item_name+.m-item_name {
+    margin-left: 12px;
+}
+
+li {
+    list-style: none;
+}
+
+.m-title {
+    font-size: 12px;
+    letter-spacing: 0.35px;
+    position: fixed;
+    left: 34px;
+    top: 70px;
+}
+
+.m-titleA {
+    font-size: 12px;
+    letter-spacing: 0.35px;
+    position: fixed;
+    left: 34px;
+    top: 241px;
+}
+
+.m-titleB {
+    font-size: 12px;
+    letter-spacing: 0.35px;
+    position: fixed;
+    left: 34px;
+    top: 412px;
+}
+
+.m-Bigtitle {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    position: fixed;
+    left: 34px;
+    top: 89px;
+}
+
+.m-BigtitleA {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 34px;
+    top: 260px;
+}
+
+.m-BigtitleB {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    position: fixed;
+    left: 34px;
+    top: 432px;
+}
+
+.m-subheading {
+    font-size: 12px;
+    letter-spacing: 0.7px;
+    position: fixed;
+    left: 34px;
+    top: 121px;
+}
+
+.m-subheadingA {
+    font-size: 12px;
+    letter-spacing: 0.7px;
+    position: fixed;
+    left: 34px;
+    top: 292px;
+}
+
+.m-subheadingB {
+    font-size: 12px;
+    letter-spacing: 0.7px;
+    position: fixed;
+    left: 34px;
+    top: 463px;
+}
+
+.m-author {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 34px;
+    top: 155px;
+}
+
+.m-authorA {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 34px;
+    top: 325px;
+}
+
+.m-authorB {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 34px;
+    top: 496px;
+}
+
+.m-time {
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    position: fixed;
+    left: 34px;
+    top: 174px;
+}
+
+.m-timeA {
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    position: fixed;
+    left: 34px;
+    top: 345px;
+}
+
+.m-timeB {
+    font-size: 12px;
+    letter-spacing: 0.4px;
+    position: fixed;
+    left: 34px;
+    top: 516px;
+}
+
+.Title {
+    font-size: 20px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    position: fixed;
+    left: 770px;
+    top: 100px;
+}
+
+.m-midtitle {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    position: fixed;
+    left: 815px;
+    top: 178px;
+}
+
+.m-midtitleA {
+    font-size: 15px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    position: fixed;
+    left: 815px;
+    top: 307px;
+}
+
+.m-midtitleB {
+    font-size: 15px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    position: fixed;
+    left: 815px;
+    top: 436px;
+}
+
+.mg-author {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 815px;
+    top: 245px;
+}
+
+.mg-authorA {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 815px;
+    top: 374px;
+}
+
+.mg-authorB {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 815px;
+    top: 484px;
+}
+
+.mg-time {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 815px;
+    top: 264px;
+}
+
+.mg-timeA {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 815px;
+    top: 394px;
+}
+
+.mg-timeB {
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 815px;
+    top: 503px;
+}
+
+.mg-01 {
+    font-size: 23px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 772px;
+    top: 177px;
+}
+
+.mg-02 {
+    font-size: 23px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 772px;
+    top: 305px;
+}
+
+.mg-03 {
+    font-size: 23px;
+    letter-spacing: 0.1px;
+    position: fixed;
+    left: 772px;
+    top: 435px;
+}
+
+.img {
+    background-color: black;
+    margin: 38px 473px;
+    height: 123px;
+    width: 152px;
+}
+
+.img1 {
+    background-color: black;
+    margin: 50px 473px;
+    height: 123px;
+    width: 152px;
+}
+
+.img2 {
+    background-color: black;
+    margin: 62px 473px;
+    height: 123px;
+    width: 152px;
+}
